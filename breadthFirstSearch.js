@@ -1,7 +1,7 @@
 /*      10 
       6   15 
     3  8    20
-ROOT -> LEFT -> RIGHT
+ROOT -> LEFT OF ROOT -> RIGHT OF ROOT -> REPEAT
 QUEUE: [10, 6, 15, 3, 8, 20]
 */
 function BFS() { 
